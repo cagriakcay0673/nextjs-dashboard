@@ -1,1 +1,2 @@
 # nextjs-dashboard
+# sayfa hazırlanacak
